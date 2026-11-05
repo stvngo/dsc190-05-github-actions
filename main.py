@@ -8,4 +8,3 @@ def calculate_data(df):
     append_to_list(10)
 
     print("Calculations complete")
-
